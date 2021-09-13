@@ -1,7 +1,7 @@
 ---
 title: Day 1
 output: html_document
-author: Tyler Toren
+author: Stella Sterling
 ---
 
 # Example Text
